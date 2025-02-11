@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Software Developer and Master Thesis Student",
+      "organisation": "Scania",
+      "startDate": "January, 2024",
+      "endDate": "Present",
+      "experiences": ["Working on salvaging legacy codes of XML in the desktop to a dynamic web based solution"],
+      "imageSrc": "history/Scania.png"
+    },
+    {
+      "role": "Software Developer Intern",
+      "organisation": "SLB",
+      "startDate": "June, 2023",
+      "endDate": "Sep, 2023",
+      "experiences": ["Worked with back end pipeline scripting of the PETREL app using C# and .NET"],
+      "imageSrc": "history/Slb.png"
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "Tenth Planet Technologies",
+      "startDate": "June, 2019",
+      "endDate": "Aug, 2019",
+      "experiences": [
+        "Maintained the servers and XML cache of various clients",
+        "Helped create UI components and used react to design certain pages like review column, product column for e-commerce client"
+      ],
+      "imageSrc": "history/TP.png"
+    }
+  ]
+  
