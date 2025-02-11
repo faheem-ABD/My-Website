@@ -1,9 +1,18 @@
 [
+  {
+    "role": "Cloud AI Developer",
+    "organisation": "Ericsson",
+    "startDate": "February, 2025",
+    "endDate": "Present",
+    "experiences": ["Working as NextGen Machine Learning and cloud developer to automate telecommunications software."],
+    "imageSrc": "history/Ericsson.png"
+  },
+
     {
-      "role": "Software Developer and Master Thesis Student",
+      "role": "Master Thesis Student",
       "organisation": "Scania",
-      "startDate": "January, 2024",
-      "endDate": "Present",
+      "startDate": "February, 2024",
+      "endDate": "December, 2024",
       "experiences": ["Working on salvaging legacy codes of XML in the desktop to a dynamic web based solution"],
       "imageSrc": "history/Scania.png"
     },

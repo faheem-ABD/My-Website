@@ -17,9 +17,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Software Developer</h3>
+              <h3>Machine Learning Developer</h3>
               <p>
-                I'm a Junior Software developer with skills in fullsatck development and Machine Learning. Awaiting to work  on bigger tasks from development to deployment.
+                MLOps Engineer focused on automating and deploying containerized machine learning models for telecommunications software.
               </p>
             </div>
           </li>
@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have hands on experience developing pipeline scripts and backend systems in C# and .NET and re moduled old C++ code for memory allocation and load balance.
+                Experience developing pipeline scripts and backend systems using C# and .NET with deployment in Azure.
               </p>
             </div>
           </li>
@@ -37,8 +37,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well using Figma and have hands on expereince with custom alteration of react and Javascript pages.
+              Experience designing systems in Figma, with hands-on expertise in customizing React and JavaScript pages.
               </p>
             </div>
           </li>
@@ -47,8 +46,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Industry Researcher</h3>
               <p>
-                Hands on Research expereince by finding patterns in XML schema desktop application to be dynamic in react and node and Javascript
-                by creating custom AI models. 
+                Hands-on research experience in modernizing software architecture, system design, and testing of legacy systems.
               </p>
             </div>
           </li>

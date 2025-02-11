@@ -9,9 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Faheem</h1>
         <p className={styles.description}>
-          I'm a Associate Developer with fullsatck and Machine Learning practices gained 
-          by internships from Fortune 500 companies in Europe. 
-          Currently, a master thesis student at Scania AB, Sweden.
+          Machine Learning engineer with focus on cloud and software development.
         </p>
       </div>
       <img
